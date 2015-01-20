@@ -1,5 +1,5 @@
 # ePatronier
-Chrome extension that lets you give money to YouTube artists through Venmo, at the click of a button on the YouTube page.
+Chrome extension that lets you give money to YouTube artists through Venmo by clicking a button on the yt video page.
 
 ###Components
 _____________
