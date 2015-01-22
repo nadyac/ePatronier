@@ -12,4 +12,4 @@ The extension uses jQuery to insert a Venmo button into the HTML of the YouTube 
 <br>
 <b>The Venmo button gets added throughout YouTube pages where the subscribe button for an artist also appears.<b>
 <br>
-![alt tag](http://i.imgur.com/TWwTZA2.png) ;&nbsp;&nbsp ![alt tag](http://i.imgur.com/uz0WrEa.png)
+![alt tag](http://i.imgur.com/TWwTZA2.png) ;&nbsp;&nbsp;_ ![alt tag](http://i.imgur.com/uz0WrEa.png)
