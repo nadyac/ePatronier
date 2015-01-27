@@ -4,7 +4,7 @@ Chrome extension that lets you give money to YouTube artists through Venmo by cl
 ###Components
 _____________
 #### The Venmo Me! Button
-The extension uses jQuery to insert a Venmo button into the HTML of the YouTube pages. This results in the appearance of nice blue button that says "Venmo Me!" right next to the "Subscribe" btn. Clicking it opens Venmo so you can pay your artist.
+The extension uses jQuery to insert a Venmo button into the HTML of the YouTube pages. This results in the appearance of nice blue button that says "Venmo Me!" right next to the "Subscribe" btn. Clicking it opens Venmo so you can pay your artist. <br>
 ![alt tag](https://cloud.githubusercontent.com/assets/1454517/5923665/4aa88370-a623-11e4-8529-17deb0e3cd92.PNG)
 <br>
 <br>
