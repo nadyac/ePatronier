@@ -1,6 +1,6 @@
 //inject.js
 
-// Create, style, and insert Venmo Me! button after the Subscribe button of a YT video
+//Create, style, and insert Venmo Me! button after the Subscribe button of a YT video
 $(".yt-uix-button-subscription-container").after("<button id='my-button' style='color:blue;margin-left:20px; \
 													background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #79bbff), color-stop(1, #378de5)); \
 													background:-moz-linear-gradient(top, #79bbff 5%, #378de5 100%); \
@@ -23,7 +23,7 @@ $(".yt-uix-button-subscription-container").after("<button id='my-button' style='
 $(".venmo-pay-button").unbind("click");
 $("#my-button").click(payArtist);
 
-//  opens venmo paying in a new tab
+//opens venmo paying in a new tab
 function payArtist(evt){
 
 	var message = {
