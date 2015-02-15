@@ -7,9 +7,7 @@ chrome.runtime.onMessage.addListener(
 		  chrome.tabs.create({'url': request.url}, function(tab) {
 		    //bkg.console.log("tab", tab);
 		  });
-
     }
-
     sendResponse({farewell: "goodbye"});
   }
 
